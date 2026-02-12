@@ -21,3 +21,9 @@ public boolean method2(char letter, float number) {
 
 // Stephany 
 
+public char method3() {
+		
+			return 'Z';
+		
+		} // end method3
+
