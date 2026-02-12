@@ -23,7 +23,8 @@ public boolean method2(char letter, float number) {
 
 public char method3() {
 		
-			return 'Z';
+			return 'C';
 		
 		} // end method3
+
 
